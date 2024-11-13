@@ -1,0 +1,41 @@
+100-109 walking
+110-119 waving
+120-129 sitting
+130-139 walking
+140-149 waving
+150-159 sitting
+160-169 walking
+170-179 waving (no hand 173(test), 174 (train))
+180-189 sitting
+190-199 walking
+200-209 waving
+210-219 sitting
+220-229 walking
+230-239 waving
+240-249 sitting
+250-259 walking
+260-269 waving
+270-279 sitting
+280-289 sitting and walking
+290-299 sitting and waving
+300-309 sitting and sitting
+370-379 2 sitting, 2 walking
+380-389 2 sitting, 1 walking, 1 waving
+390-399 3 sitting, 1 walking
+400-409 2 sitting, 1 walking
+410-419 2 sitting, 1 waving
+420-429 2 sitting, 1 walking
+430-439 2 sitting, 1 waving
+440-469 waving (2 sitting?)
+470-479 sitting (2 sitting?)
+480-489 walking (2 sitting?)
+490-499 3 sitting
+500-509 3 sitting, 1 walking
+510-519 3 sitting, 1 waving (no hand 510 (train))
+520-549 2 sitting
+550-569 walking (not visible 553)
+570-589 waving (no hand 576-578, 583-584, 589)
+590-599 walking
+600-609 waving (no hand 606, 609)
+610-619 walking (not visible 613)
+620-629 waving (no hand 624-625)
