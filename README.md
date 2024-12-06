@@ -6,14 +6,11 @@
 
 Supplementary code and training data for the wide FoV person segmentation approach. The paper can be found [here](https://arxiv.org/abs/2411.11151).
 
-The code will and training data will be made publicly available on github on acceptance and serves as reference for the reviewing process.
-
-The training code is seperated into seperated files for the different tasks:
+The training code is seperated for different tasks:
 
 * Person Detection --> `person_detection.ipynb`
 * Action Detection --> `action_detection.ipynb`
 * Inference code --> `test_tiago.ipynb`
-
 
 ## Data and Models
 
